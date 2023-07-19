@@ -1,0 +1,7 @@
+ch=int(input("닭:"))
+r=int(input("토끼:"))
+p=int(input("돼지:"))
+sum=(2*ch)+(4*r)+(4*p)
+print("다리합계:%d" % sum)
+print("다리합계{}".format(sum))
+print("다리합계:", sum)
